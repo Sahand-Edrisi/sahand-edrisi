@@ -4,18 +4,28 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #141313;
+  --green: #87af7b;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #000;
+    --foreground: #fff;
+    --green: #87af7b;
   }
 }
-
+font-face {
+  font-family: "Vazir";
+  src: url("/public/font/Vazir.woff2") format("woff2"),
+    url("/public/font/Vazir.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  direction: rtl;
+  text-align: right;
 }
