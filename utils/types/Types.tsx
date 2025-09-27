@@ -1,4 +1,5 @@
 import type { StaticImageData } from "next/image";
+import { IconDefinition } from "@fortawesome/free-solid-svg-icons";
 
 export interface ISkillType {
   id: number;
@@ -23,4 +24,10 @@ export interface IProjectDetail {
   widthImg?: number;
   size?: number;
   heightImg?: number;
+}
+
+export interface PageItem {
+  icon: IconDefinition;
+  id: number;
+  href : string
 }

@@ -22,6 +22,18 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "components/homePageComponents/HomePage.tsx",
+    "components/Footer.tsx",
+    "components/Header.tsx",
+    "components/homePage/page.tsx",
+    "components/homePageComponents/ProfilePic.tsx",
+    "components/projectsComponents/ProjectDetail.tsx",
+    "components/projects/page.tsx"
+  ],
   "exclude": ["node_modules"]
 }

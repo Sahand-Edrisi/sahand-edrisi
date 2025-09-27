@@ -1,13 +1,15 @@
-import Header from "@/components/Header/Header";
-import Main from "@/components/Main/Main";
-import Footer from "@/components/Footer/Footer";
+import BackGroundImage from "@/components/BackGroundImage";
+import Navbar from "@/components/Navbar";
+import HomePage from "@/components/homePageComponents/HomePage";
+import Skills from "@/components/skills/Skills";
 
 export default function Home() {
   return (
-    <div className="m-auto max-w-[50rem]">
-    <Header/>
-    <Main/>      
-    <Footer/>      
-    </div>
+    <>
+      <BackGroundImage />
+      <HomePage />
+      <Skills/>
+      <Navbar />
+    </>
   );
 }

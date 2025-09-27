@@ -1,15 +1,11 @@
 export const AboutMeText = {
-  name: "سهند ادریسی",
+  name: "Sahand Edrisi",
   titleWork: "Front-End Developer",
-  title: "درباره من",
-  aboutMeText: `من سهند ادریسی، توسعه‌دهنده فرانت‌اند با تجربه‌ی عملی در پیاده‌سازی رابط‌های کاربری مدرن و مقیاس‌پذیر./
-تخصص من شامل توسعه و نگهداری پروژه‌هایی با React js، Next js، استفاده از کتابخانه‌هایی مانند Redux Toolkit، Redux و TailwindCSS است./
-پروژه‌هایی مانند بازطراحی رابط کاربری فروشگاه اینترنتی، وب‌سایت نمایش فیلم، بلاگ شخصی و بازی‌های مرورگری را توسعه دادم و تمرکز اصلی‌ام بر توسعه رابط‌هایی واکنش‌گرا با تجربه کاربری روان و کدنویسی تمیز است.
-همچنین تجربه‌ی کار در تیم‌های چندنفره و آشنایی با ابزارهای کنترل نسخه (Git) و مدیریت پروژه (Jira) را دارم./`,
+  titleSkills: "React.js , Next.js , TypeScript , JavaScript",
 };
 export const SkillsText = {
-  title: "مهارت ها",
+  title: "Skills",
 };
 export const ProjectText = {
-  title: "نمونه کار ها",
+  title: "Projects",
 };

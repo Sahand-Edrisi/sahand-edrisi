@@ -3,14 +3,14 @@ import { icons } from "@/utils/data/iconsData";
 import Image from "next/image";
 const Skills = () => {
   return (
-    <div className="grid justify-items-center">
-      <span className="text-[1.5rem] mt-8 border-b-[.5rem] border-green pr-5 pl-5">
+    <div className="grid">
+      <span className="flex text-[1rem]  justify-center p-1 m-2 border-4 border-green rounded-lg ">
         {SkillsText.title}
       </span>
-      <div className="grid grid-cols-3 justify-items-center items-center justify-center ">
+      <div className="grid grid-cols-5 justify-items-center items-center justify-center ">
         {icons.map((icon) => (
           <div key={icon.id}>
-            <Image width={80} height={80} alt="" src={icon.src} 
+            <Image width={50} height={50} alt="" src={icon.src} 
             className="rounded-full object-cover p-2 m-2"/>
           </div>
         ))}

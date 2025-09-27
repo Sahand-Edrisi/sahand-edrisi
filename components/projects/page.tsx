@@ -4,7 +4,7 @@ import { ProjectText } from "@/utils/Text";
 import { projects } from "@/utils/data/projectsData";
 import GithubIcon from "@/public/icons/github.png";
 import WebSiteIcon from "@/public/icons/website.png";
-import ProjectDetail from "./ProjectDetail";
+import ProjectDetail from "../projectsComponents/ProjectDetail";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
@@ -17,7 +17,7 @@ import { Autoplay, FreeMode } from "swiper/modules";
 
 const roundedIcons: string =
   "border-[.1rem] border-green rounded-full w-[2.5rem]";
-  
+
 const Projects = () => {
   return (
     <div className="grid justify-items-center">
