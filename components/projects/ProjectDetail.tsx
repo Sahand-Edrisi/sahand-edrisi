@@ -1,29 +1,32 @@
-import { IProjectDetail } from "@/utils/types/Types";
 import Link from "next/link";
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
+
+export interface IProjectDetail {
+  href: string;
+  src: StaticImageData;
+  heightImg: number;
+  widthImg :number
+}
 
 const ProjectDetail = ({
   href,
   widthImg,
   heightImg,
   src,
-  size,
-  rounded,
 }: IProjectDetail) => {
   return (
     <Link
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className={rounded}
+      className=""
     >
       <Image
-        width={widthImg && size}
-        height={heightImg && size}
+        width={widthImg }
+        height={heightImg}
         alt=""
         src={src}
-        className={rounded}
-        priority
+        className="object-cover rounded-3xl w-[17rem] h-[12rem]"
       />
     </Link>
   );

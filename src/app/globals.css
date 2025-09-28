@@ -3,29 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #141313;
+  --background: #262323;
+  --foreground: #ede4e4;
   --green: #87af7b;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #1d1e1a;
-    --foreground: #ffffff;
-    --green: #87af7b;
-  }
-}
-font-face {
-  font-family: "Vazir";
-  src: url("/public/font/Vazir.woff2") format("woff2"),
-    url("/public/font/Vazir.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 body {
+  font-family: var(--font-montserrat), sans-serif;
   color: var(--foreground);
   background: var(--background);
-  direction: rtl;
-  text-align: right;
 }

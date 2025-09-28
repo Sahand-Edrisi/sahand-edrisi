@@ -1,6 +1,13 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
+
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  weight: ["400", "600"],
+  variable: "--font-montserrat",
+});
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -14,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Sahand Edrisi",
-  description: "Potifilo",
+  description: "Portfolio",
 };
 
 export default function RootLayout({
@@ -23,9 +30,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fa" dir="rtl">
+    <html lang="en" dir="ltr">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} ${montserrat.variable} antialiased`}
       >
         {children}
       </body>

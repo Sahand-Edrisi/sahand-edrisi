@@ -10,7 +10,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        green: "var(--green)"
+        green: "var(--green)",
       },
       screens: {
         sm: "640px",
@@ -19,7 +19,9 @@ export default {
         xl: "1280px",
       },
       fontFamily: {
-        sans: ["Vazir", "sans-serif"],
+        montserrat: ["var(--font-montserrat)", "sans-serif"], // فونت انگلیسی
+        geist: ["var(--font-geist-sans)", "sans-serif"], // فونت متن
+        mono: ["var(--font-geist-mono)", "monospace"], // فونت کد
       },
     },
   },
