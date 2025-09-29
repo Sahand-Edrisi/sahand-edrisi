@@ -11,8 +11,8 @@ const Experience = () => {
     <div className="pt-3">
       <Titles title={TitleText.titleExperience} />
       <div className=" pl-2 ">
-        {experience.map((item) => (
-          <ExperienceItems items={item} key={item.id} />
+        {experience.map((item ,index) => (
+          <ExperienceItems items={item} key={item.id} style={index === experience.length -1 ? "border-none": ""} />
         ))}
       </div>
     </div>

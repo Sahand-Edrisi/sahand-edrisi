@@ -10,6 +10,10 @@ import CssIcon from "@/public/icons/css.svg";
 import ScssIcon from "@/public/icons/sass.svg";
 import ResponsiveIcon from "@/public/icons/responsive website.png";
 import HTMLIcon from "@/public/icons/html.svg";
+import FlowbiteIcon from "@/public/icons/Flowbite.svg" 
+import RestApiIcon from "@/public/icons/api.png" 
+import SwiperIcon from "@/public/icons/swiper.svg" 
+
 import { StaticImageData } from "next/image";
 
 export interface ISkillType {
@@ -104,6 +108,27 @@ export const icons: ISkillType[] = [
     id: 12,
     alt: "HTML",
     src: HTMLIcon,
+    widthImg: ImgWidth,
+    heightImg: ImgHeight,
+  },
+  {
+    id: 13,
+    alt: "Swiper",
+    src: SwiperIcon,
+    widthImg: ImgWidth,
+    heightImg: ImgHeight,
+  },
+  {
+    id: 14,
+    alt: "Flowbite",
+    src: FlowbiteIcon,
+    widthImg: ImgWidth,
+    heightImg: ImgHeight,
+  },
+  {
+    id: 15,
+    alt: "REST_Api",
+    src: RestApiIcon,
     widthImg: ImgWidth,
     heightImg: ImgHeight,
   },

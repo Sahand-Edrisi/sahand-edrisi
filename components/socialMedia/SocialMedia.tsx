@@ -1,31 +1,49 @@
 import { socialMedia } from "@/utils/data/SocialMediaData";
-import { CV } from "@/utils/data/SocialMediaData";
 import Image from "next/image";
-import Link from "next/link";
+import { StaticImageData } from "next/image";
 
-const SocialMedia = () => {
+export interface ISocialMedia {
+  id?: number;
+  src?: StaticImageData;
+  href?: string;
+  widthImg?: number;
+  heightImg?: number;
+  download?: string;
+  widthINContact?: number;
+  heightINContact?: number;
+  contactStyle?: boolean;
+}
+
+const SocialMedia = ({
+  widthINContact,
+  heightINContact,
+  contactStyle,
+}: ISocialMedia) => {
   return (
     <>
-      <div className="flex pr-2 justify-end">
-        <a href={CV.href} download={CV.download}>
-          <Image
-            width={CV.widthImg}
-            height={CV.heightImg}
-            alt=""
-            src={CV.src}
-            className="object-cover m-2"
-          />
-        </a>
+      <div
+        className={` flex${
+          contactStyle ? " justify-around " : " justify-around pl-28 mt-2 md:pl-52"
+        }`}
+      >
         {socialMedia.map((item) => (
-          <Link key={item.id} href={item.href}>
+          <a
+            key={item.id}
+            href={item.href}
+            {...(item.download ? { download: item.download } : {})}
+            target={item.href.startsWith("http") ? "_blank" : "_self"}
+            rel={
+              item.href.startsWith("http") ? "noopener noreferrer" : undefined
+            }
+          >
             <Image
-              width={item.widthImg}
-              height={item.heightImg}
+              width={widthINContact ? widthINContact : item.widthImg}
+              height={heightINContact ? heightINContact : item.heightImg}
               alt=""
               src={item.src}
-              className="object-cover m-2"
+              className="object-cover m:w-[1.7rem] m:h-[1.7rem] sm:w-[2.4rem] sm:h-[2.4rem] md:w-[3.5rem] md:h-[3.5rem]"
             />
-          </Link>
+          </a>
         ))}
       </div>
     </>

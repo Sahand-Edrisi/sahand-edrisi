@@ -1,20 +1,16 @@
 "use client";
-
-// import GithubIcon from "@/public/icons/github.png";
-// import WebSiteIcon from "@/public/icons/website.png";
 import ProjectDetail from "./ProjectDetail";
 import { projects } from "@/utils/data/ProjectsData";
 import { TitleText } from "../Common/TitleText";
-
 import { Swiper, SwiperSlide } from "swiper/react";
-
 import "swiper/css";
 import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
-
-import { EffectCoverflow, Pagination } from "swiper/modules";
+import { Autoplay, EffectCoverflow, Pagination } from "swiper/modules";
 import Titles from "../Common/Titles";
-import GitHubIcon from "./GitHubIcon";
+import SeeWebsiteAndGithub from "./SeeWebsiteAndGithub";
+import Github from "@/public/icons/githubWebsite.png";
+import Website from "@/public/icons/website-content.png";
 
 const Projects = () => {
   return (
@@ -23,23 +19,28 @@ const Projects = () => {
         <Titles title={TitleText.titleProjects} />
       </div>
       <div className="grid justify-items-center">
-        <div className="mt-5 mb-10 h-[16rem]">
+        <div className="mt-5 mb-10 h-[15rem] md:h-[24rem]">
           <Swiper
             effect={"coverflow"}
             grabCursor={true}
             centeredSlides={true}
-            slidesPerView={2}
+            slidesPerView={3}
             coverflowEffect={{
               rotate: 50,
               stretch: 0,
               depth: 100,
               modifier: 1,
-              slideShadows: true,
+              slideShadows: false,
             }}
             loop={true}
             pagination={false}
-            modules={[EffectCoverflow, Pagination]}
-            className="mySwiper w-[18rem] h-[15rem]"
+            autoplay={{
+              delay:2000,
+              disableOnInteraction : false
+              
+            }}
+            modules={[EffectCoverflow, Pagination,Autoplay]}
+            className="mySwiper w-[20rem] h-[16rem] m:w-[23rem] sm:w-[26rem] md:w-[47rem] md:h-[24rem]"
           >
             {projects.map((item) => (
               <SwiperSlide key={item.id} className="">
@@ -51,8 +52,9 @@ const Projects = () => {
                     src={item.srcImg}
                   />
                 </div>
-                <div className="flex justify-items-center justify-center">
-                  <GitHubIcon href={item.soursCode}/>
+                <div className="flex justify-items-center justify-around mt-4">
+                  <SeeWebsiteAndGithub soursCode={item.soursCode}  icon={Github} />
+                  <SeeWebsiteAndGithub soursCode={item.homePage}  icon={Website} />
                 </div>
               </SwiperSlide>
             ))}

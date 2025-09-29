@@ -1,4 +1,3 @@
-
 import movieWebPic from "@/public/projectsImg/sample-movie-web-site.png";
 import sudokuPic from "@/public/projectsImg/sudoku-table.png";
 import ticTacToePic from "@/public/projectsImg/tic-tac-toe.png";
@@ -17,7 +16,6 @@ export interface IProjectType {
 const ImgWidth = 350;
 const ImgHeight = 350;
 
-
 export const projects: IProjectType[] = [
   {
     id: 1,
@@ -34,7 +32,6 @@ export const projects: IProjectType[] = [
     homePage: "https://sahand-edrisi.github.io/sudoku-table/",
     widthImg: ImgWidth,
     heightImg: ImgHeight,
-
   },
   {
     id: 3,
@@ -43,7 +40,6 @@ export const projects: IProjectType[] = [
     homePage: "https://sahand-edrisi.github.io/Tic-Tac-Toe/",
     widthImg: ImgWidth,
     heightImg: ImgHeight,
-
   },
   {
     id: 4,
@@ -52,7 +48,6 @@ export const projects: IProjectType[] = [
     homePage: "https://sahand-edrisi.github.io/calculator/",
     widthImg: ImgWidth,
     heightImg: ImgHeight,
- 
   },
   {
     id: 5,
@@ -61,7 +56,6 @@ export const projects: IProjectType[] = [
     homePage: "https://sahand-edrisi.github.io/myblogs-web-site/",
     widthImg: ImgWidth,
     heightImg: ImgHeight,
-
   },
   {
     id: 6,
