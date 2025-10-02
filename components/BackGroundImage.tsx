@@ -1,4 +1,4 @@
-import bgImage from "@/public/img/sahand-edc-3.jpg";
+import bgImage from "@/public/img/photo_2025-09-30_20-45-35.jpg";
 import Image from "next/image";
 import MyPic from "@/public/img/my-pic.png";
 
@@ -12,7 +12,7 @@ const BackGroundImage = () => {
             height={550}
             alt=""
             src={bgImage}
-            className="z-0 w-full h-[8rem] sm:h-[10rem] md:h-[15rem] lg:h-[18rem] object-cover border-b-4 border-green"
+            className="z-0 w-full h-auto xs:h-[6rem]  sm:h-[10rem] md:h-[15rem] lg:h-[18rem] object-contain border-b-4 border-green"
             priority
           />
         </div>

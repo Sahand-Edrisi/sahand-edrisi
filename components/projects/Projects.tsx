@@ -19,12 +19,11 @@ const Projects = () => {
         <Titles title={TitleText.titleProjects} />
       </div>
       <div className="grid justify-items-center">
-        <div className="mt-5 mb-10 h-[15rem] md:h-[24rem]">
+        <div className="mt-5 mb-10 h-[15rem] md:h-[24rem] w-full ">
           <Swiper
             effect={"coverflow"}
             grabCursor={true}
             centeredSlides={true}
-            slidesPerView={3}
             coverflowEffect={{
               rotate: 50,
               stretch: 0,
@@ -32,15 +31,22 @@ const Projects = () => {
               modifier: 1,
               slideShadows: false,
             }}
+            breakpoints={{
+              0: {
+                slidesPerView: 2,
+              },
+              425: {
+                slidesPerView: 3,
+              },
+            }}
             loop={true}
             pagination={false}
             autoplay={{
-              delay:2000,
-              disableOnInteraction : false
-              
+              delay: 4000,
+              disableOnInteraction: false,
             }}
-            modules={[EffectCoverflow, Pagination,Autoplay]}
-            className="mySwiper w-[20rem] h-[16rem] m:w-[23rem] sm:w-[26rem] md:w-[47rem] md:h-[24rem]"
+            modules={[EffectCoverflow, Pagination, Autoplay]}
+            className="mySwiper  w-[20rem] h-[16rem] xm:w-[23rem] sm:w-[26rem] md:w-[47rem] md:h-[24rem]"
           >
             {projects.map((item) => (
               <SwiperSlide key={item.id} className="">
@@ -53,8 +59,14 @@ const Projects = () => {
                   />
                 </div>
                 <div className="flex justify-items-center justify-around mt-4">
-                  <SeeWebsiteAndGithub soursCode={item.soursCode}  icon={Github} />
-                  <SeeWebsiteAndGithub soursCode={item.homePage}  icon={Website} />
+                  <SeeWebsiteAndGithub
+                    soursCode={item.soursCode}
+                    icon={Github}
+                  />
+                  <SeeWebsiteAndGithub
+                    soursCode={item.homePage}
+                    icon={Website}
+                  />
                 </div>
               </SwiperSlide>
             ))}

@@ -16,13 +16,13 @@ const AboutMe = () => {
       <h1 className="font-montserrat text-[.8rem] md:text-[1.4rem] font-bold">
         {AboutMeData.titleLocation}
       </h1>
-      <h1 className="flex mt-1 font-montserrat text-[.8rem] md:text-[1.4rem] font-bold">
+      <h1 className="flex  mt-1 font-montserrat text-[.6rem] xm:text-[.8rem] md:text-[1.4rem] font-bold">
         <Image
           width={AboutMeData.widthImage}
           height={AboutMeData.heightImg}
           alt=""
           src={AboutMeData.src}
-          className="mr-2 md:w-[2rem] md:h-[2rem]"
+          className="mr-2 w-auto h-auto xs:w-[.8rem] xs:h-[.8rem] xm:w-[1rem] xm:h-[1rem] md:w-[2rem] md:h-[2rem]"
         />
         {AboutMeData.university}
       </h1>

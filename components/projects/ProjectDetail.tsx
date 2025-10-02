@@ -14,7 +14,7 @@ const ProjectDetail = ({ widthImg, heightImg, src }: IProjectDetail) => {
       height={heightImg}
       alt=""
       src={src}
-      className="object-cover rounded-3xl w-[17rem] h-[12rem]  md:h-[20rem]"
+      className="object-cover rounded-3xl w-[9em] h-[10rem] md:h-[20rem] md:w-[20rem]"
     />
   );
 };

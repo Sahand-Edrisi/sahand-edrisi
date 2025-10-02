@@ -2,14 +2,14 @@ import ReactIcon from "@/public/icons/react.svg";
 import NextJsIcon from "@/public/icons/NEXT.JS.png";
 import ReduxIcon from "@/public/icons/Redux.png";
 import TypescriptIcon from "@/public/icons/Typescript.png";
-import JsIcon from "@/public/icons/javascript.svg";
+import JsIcon from "@/public/icons/java-script.png";
 import BootstrapIcon from "@/public/icons/bootstrap.svg";
 import TailwindIcon from "@/public/icons/Tailwind.png";
 import GitIcon from "@/public/icons/git.svg";
 import CssIcon from "@/public/icons/css.svg";
 import ScssIcon from "@/public/icons/sass.svg";
 import ResponsiveIcon from "@/public/icons/responsive website.png";
-import HTMLIcon from "@/public/icons/html.svg";
+import HTMLIcon from "@/public/icons/html.png";
 import FlowbiteIcon from "@/public/icons/Flowbite.svg" 
 import RestApiIcon from "@/public/icons/api.png" 
 import SwiperIcon from "@/public/icons/swiper.svg" 
@@ -23,8 +23,8 @@ export interface ISkillType {
   widthImg?: number;
   heightImg?: number;
 }
-const ImgWidth = 65;
-const ImgHeight = 65;
+const ImgWidth = 80;
+const ImgHeight = 80;
 
 export const icons: ISkillType[] = [
   {

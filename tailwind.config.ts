@@ -13,7 +13,8 @@ export default {
         green: "var(--green)",
       },
       screens: {
-        m:"375px",
+        xs:"320px",
+        xm:"375px",
         sm:"425px",
         md: "768px",
         lg: "1024px",

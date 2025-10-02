@@ -14,8 +14,9 @@ export interface IContactMe {
 }
 export type IContactMeType = IContactMe[];
 
-const widthImage = 40;
-const heightImage = 40;
+const widthImage = 20;
+const heightImage = 20;
+
 export const ContactMeData: IContactMeType = [
   {
     id: 1,

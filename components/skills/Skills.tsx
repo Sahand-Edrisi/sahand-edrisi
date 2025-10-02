@@ -15,7 +15,7 @@ const Skills = () => {
               height={icon.heightImg}
               alt={icon.alt}
               src={icon.src}
-              className="object-contain p-2 m-2 text-white md:w-[6rem] md:h-[6rem]"
+              className="object-contain p-2 m-2  md:w-[8rem] md:h-[8rem]"
             />
           </div>
         ))}

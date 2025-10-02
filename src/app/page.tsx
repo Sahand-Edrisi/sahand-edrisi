@@ -1,4 +1,3 @@
-// import Navbar from "@/components/Navbar";
 import BackGroundImage from "@/components/BackGroundImage";
 import SocialMedia from "@/components/socialMedia/SocialMedia";
 import AboutMe from "@/components/aboutMe/AboutMe";
@@ -9,7 +8,7 @@ import ContactMe from "@/components/contactMe/ContactMe";
 
 export default function Home() {
   return (
-    <div className="max-w-[47rem] m-auto">
+    <div className="max-w-[1024px] m-auto">
       <BackGroundImage />
       <SocialMedia />
       <AboutMe />
