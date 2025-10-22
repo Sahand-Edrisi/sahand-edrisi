@@ -2,8 +2,6 @@
 
 [View the demo](https://sahand-edrisi.ir/)
 
-![Sahand Edrisi](./assets/WebsitePic.jpg)
-
 ---
 
 ## 🚀 Skills
