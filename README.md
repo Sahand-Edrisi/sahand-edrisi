@@ -18,4 +18,4 @@
 ---
 
 ## 🐍 GitHub Snake
-![GitHub Snake](./assets/snake.png)  <!-- مسیر GIF که دانلود کردید -->
+![GitHub Snake](./assets/snake.gif)  <!-- مسیر GIF که دانلود کردید -->
