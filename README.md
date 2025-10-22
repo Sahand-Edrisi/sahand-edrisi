@@ -1,14 +1,20 @@
 # Sahand Edrisi
 
-[🌐 View the demo](https://sahand-edrisi.ir/)
+<p align="center">
+  <a href="https://sahand-edrisi.ir/">
+    🌐 View the Demo
+  </a>
+</p>
 
-![Header Image](./assets/WebsitePic.jpg)  <!-- اگر تصویر سایت داری -->
+<p align="center">
+  <img src="./assets/WebsitePic.jpg" alt="Header Image" width="600"/>
+</p>
 
 ---
 
 ## 👋 About Me
-Hi! I'm Sahand, a Front-End developer specialized in **React**, **Next.js**, **TypeScript**, and **JavaScript**.  
-I love building clean, modern, and responsive web applications.  
+Hi! I'm Sahand, a Front-End Developer specialized in **React**, **Next.js**, **TypeScript**, and **JavaScript**.  
+I enjoy building **modern, responsive, and user-friendly web applications**.  
 
 ---
 
@@ -23,24 +29,35 @@ I love building clean, modern, and responsive web applications.
 ---
 
 ## 📊 GitHub Stats
-![Sahand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahand-Edrisi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-Edrisi&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🐍 GitHub Snake
-![GitHub Snake](./assets/snake.gif)
+<p align="center">
+  <img src="./assets/snake.gif" alt="GitHub Snake" />
+</p>
 
 ---
 
 ## 🛠️ Projects
-- [My Portfolio](https://sahand-edrisi.ir/) - Personal website with projects and blog  
-- [React Hook Form + Zod](https://github.com/Sahand-Edrisi/react-hook-form-zod) - Form validation examples  
-- [Rotikala](https://github.com/Sahand-Edrisi/rotikala) - E-commerce inspired by Digikala  
-*(Add more projects as needed)*
+| Project | Description | Link |
+|---------|-------------|------|
+| My Portfolio | Personal website with projects and blog | [View](https://sahand-edrisi.ir/) |
+| React Hook Form + Zod | Form validation examples | [GitHub](https://github.com/Sahand-Edrisi/react-hook-form-zod) |
+| Rotikala | E-commerce inspired by Digikala | [GitHub](https://github.com/Sahand-Edrisi/rotikala) |
+| Zavie | Movie showcase website | [GitHub](https://github.com/Sahand-Edrisi/zavie) |
 
 ---
 
 ## 📫 Contact Me
-- [GitHub](https://github.com/Sahand-Edrisi)
-- [Website](https://sahand-edrisi.ir/)
-- Email: sahand@example.com  <!-- ایمیل واقعی خودت را جایگزین کن -->
+<p align="center">
+  <a href="https://github.com/Sahand-Edrisi">GitHub</a> • 
+  <a href="https://sahand-edrisi.ir/">Website</a> • 
+  <a href="mailto:sahand.edc@gmail.com">Email</a>
+</p>
