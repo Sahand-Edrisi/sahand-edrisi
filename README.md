@@ -50,7 +50,6 @@ I enjoy building **modern, responsive, and user-friendly web applications**.
 |---------|-------------|------|
 | My Portfolio | Personal website with projects and blog | [View](https://sahand-edrisi.ir/) |
 | React Hook Form + Zod | Form validation examples | [GitHub](https://github.com/Sahand-Edrisi/react-hook-form-zod) |
-| Rotikala | E-commerce inspired by Digikala | [GitHub](https://github.com/Sahand-Edrisi/rotikala) |
 | Zavie | Movie showcase website | [GitHub](https://github.com/Sahand-Edrisi/zavie) |
 
 ---
