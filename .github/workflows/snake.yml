@@ -1,30 +1,29 @@
 name: GitHub Snake
 
 on:
-  workflow_dispatch: # اجرا به صورت دستی
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # اجرا هر روز نیمه شب (اختیاری)
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. گرفتن کد مخزن
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # مهم برای اجازه push
 
-      # 2. ساخت GIF با Platane/snk
       - uses: Platane/snk@v3
         with:
           github_user_name: Sahand-Edrisi
           outputs: |
             assets/snake.gif
 
-      # 3. Commit و Push فایل GIF به مخزن
       - name: Commit snake.gif
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/snake.gif
-          git commit -m "Update GitHub Snake GIF"
+          git diff --cached --quiet || git commit -m "Update GitHub Snake GIF"
           git push
