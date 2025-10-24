@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const AboutMe = () => {
   return (
-    <div className="grid  pl-2 pt-5 md:pt-14 ">
+    <div className="grid  pl-2 pt-2 md:pt-14 ">
       <h1 className="font-mono text-[1.5rem] md:text-[2rem] font-bold text-green">
         {AboutMeData.name}
       </h1>

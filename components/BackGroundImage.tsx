@@ -5,27 +5,32 @@ import MyPic from "@/public/img/my-pic.png";
 const BackGroundImage = () => {
   return (
     <>
-      <div className="w-full relative">
-        <div>
+      <div className="relative w-full">
+        <Image
+          src={bgImage}
+          alt=""
+          className="w-full h-auto object-contain border-b-4 border-green"
+          priority
+          width={550}
+          height={550}
+        />
+
+        <div
+          className="absolute left-14 sm:left-16 md:left-28 lg:left-32 top-21 transform -translate-x-1/2 -translate-y-1/2
+                  xs:w-20 xs:h-20
+                  xm:w-24 xm:h-24
+               sm:w-28 sm:h-28
+                  md:w-52 md:h-52
+                  lg:w-56 lg:h-56
+                  xl:w-70 xl:h-70
+                  rounded-full overflow-hidden"
+        >
           <Image
-            width={550}
-            height={550}
-            alt=""
-            src={bgImage}
-            className="z-0 w-full h-auto object-contain border-b-4 border-green"
+            src={MyPic}
+            alt="Profile"
+            className="rounded-full w-full h-full object-cover"
             priority
           />
-        </div>
-
-        <div className=" grid justify-items-center  absolute left-2 top-[2rem] sm:top-[3.5rem] md:top-[6.5rem] lg:top-[10rem] md:left-6">
-          <Image
-            width={100}
-            height={100}
-            alt=""
-            src={MyPic}
-            className="rounded-full md:w-[12rem] md:h-[12rem]"
-            priority
-          ></Image>
         </div>
       </div>
     </>

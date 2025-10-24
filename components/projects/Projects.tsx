@@ -46,7 +46,7 @@ const Projects = () => {
               disableOnInteraction: false,
             }}
             modules={[EffectCoverflow, Pagination, Autoplay]}
-            className="mySwiper  w-[20rem] h-[16rem] xm:w-[23rem] sm:w-[26rem] md:w-[47rem] md:h-[24rem]"
+            className="mySwiper  w-[18rem] h-[16rem] xm:w-[21rem] sm:w-[26rem] md:w-[60rem] md:h-[24rem]"
           >
             {projects.map((item) => (
               <SwiperSlide key={item.id} className="">

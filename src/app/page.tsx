@@ -8,14 +8,14 @@ import ContactMe from "@/components/contactMe/ContactMe";
 
 export default function Home() {
   return (
-    <div className="max-w-[1024px] m-auto">
+    <div className="max-w-[1444px] m-auto border-l-4 border-green border-r-4   border-b-4  ">
       <BackGroundImage />
       <SocialMedia />
       <AboutMe />
       <Skills />
-      <Projects/>
-      <Experience/>
-      <ContactMe/>
+      <Projects />
+      <Experience />
+      <ContactMe />
     </div>
   );
 }

@@ -6,7 +6,7 @@ const ContactMe = () => {
   return (
     <>
       <Titles title={TitleText.titleContactMe} />
-      <div className="p-2 mt-8 mb-8">
+      <div className="p-2 pt-6 pb-6">
         <SocialMedia
           contactStyle={true}
           contactMe={true}
