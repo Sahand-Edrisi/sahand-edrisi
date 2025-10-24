@@ -27,7 +27,7 @@ const BackGroundImage = () => {
         >
           <Image
             src={MyPic}
-            alt="Profile"
+            alt="سهند ادریسی"
             className="rounded-full w-full h-full object-cover"
             priority
           />
