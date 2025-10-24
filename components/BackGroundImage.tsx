@@ -12,12 +12,12 @@ const BackGroundImage = () => {
             height={550}
             alt=""
             src={bgImage}
-            className="z-0 w-full h-auto xs:h-[6rem]  sm:h-[10rem] md:h-[15rem] lg:h-[18rem] object-contain border-b-4 border-green"
+            className="z-0 w-full h-auto object-contain border-b-4 border-green"
             priority
           />
         </div>
 
-        <div className=" grid justify-items-center pt-5 absolute left-2 top-[3.2rem] sm:top-[5.4rem] md:top-[8rem] md:left-6">
+        <div className=" grid justify-items-center  absolute left-2 top-[2rem] sm:top-[3.5rem] md:top-[6.5rem] lg:top-[10rem] md:left-6">
           <Image
             width={100}
             height={100}
