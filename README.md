@@ -6,7 +6,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/WebsitePic.jpg" alt="Header Image" width="600"/>
+  <img 
+    src="./assets/WebsitePic.jpg" 
+    alt="Header Image" 
+    width="400" 
+    style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
+  />
 </p>
 
 ---
