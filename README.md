@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="./assets/WebsitePic.jpg" 
+    src="./assets/WebsitePic.png" 
     alt="Header Image" 
     width="400" 
     style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
