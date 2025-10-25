@@ -18,7 +18,7 @@ export default {
         sm: "425px",
         md: "768px",
         lg: "1024px",
-        xl: "1280px",
+        xl: "1440px",
       },
       fontFamily: {
         montserrat: ["var(--font-montserrat)", "sans-serif"], // فونت انگلیسی

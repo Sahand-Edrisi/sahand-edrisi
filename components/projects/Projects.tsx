@@ -38,6 +38,9 @@ const Projects = () => {
               425: {
                 slidesPerView: 3,
               },
+              1440: {
+                slidesPerView: 4,
+              },
             }}
             loop={true}
             pagination={false}
@@ -46,11 +49,11 @@ const Projects = () => {
               disableOnInteraction: false,
             }}
             modules={[EffectCoverflow, Pagination, Autoplay]}
-            className="mySwiper  w-[18rem] h-[16rem] xm:w-[21rem] sm:w-[26rem] md:w-[60rem] md:h-[24rem]"
+            className="mySwiper  w-[18rem] h-[16rem] xm:w-[21rem] sm:w-[26rem] md:w-[48rem] md:h-[24rem] lg:w-[60rem] lg:h-[26rem] xl:w-[90rem] xl:h-[26rem]"
           >
             {projects.map((item) => (
               <SwiperSlide key={item.id} className="">
-                <div>
+                <div className="flex justify-center">
                   <ProjectDetail
                     href={item.homePage}
                     widthImg={item.widthImg}
