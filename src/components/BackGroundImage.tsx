@@ -1,6 +1,6 @@
-import bgImage from "../public/img/Cover-sahand-edc.jpg";
+import bgImage from "../../public/img/Cover-sahand-edc.jpg";
 import Image from "next/image";
-import MyPic from "../public/img/my-pic.png";
+import MyPic from "../../public/img/my-pic.png";
 
 const BackGroundImage = () => {
   return (

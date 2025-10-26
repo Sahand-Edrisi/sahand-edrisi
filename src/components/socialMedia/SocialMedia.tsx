@@ -1,7 +1,7 @@
-import { socialMedia } from "@/utils/data/SocialMediaData";
+import { socialMedia } from "@/src/utils/data/SocialMediaData";
 import Image from "next/image";
 import { StaticImageData } from "next/image";
-import { ContactMeData } from "@/utils/data/ContactMeData";
+import { ContactMeData } from "@/src/utils/data/ContactMeData";
 export interface ISocialMedia {
   id?: number;
   src?: StaticImageData;

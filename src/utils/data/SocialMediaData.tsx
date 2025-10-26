@@ -1,9 +1,9 @@
-import Linkedin from "../../src/public/icons/linkedin.png";
-import Github from "../../src/public/icons/github.png";
-import CVIcon from "../../src/public/icons/cv.png";
-import WhatsApp from "../../src/public/icons/social.png";
-import Twitter from "../../src/public/icons/twitter.png";
-import Telegram from "../../src/public/icons/telegram.png";
+import Linkedin from "../../../public/icons/linkedin.png";
+import Github from "../../../public/icons/github.png";
+import CVIcon from "../../../public/icons/cv.png";
+import WhatsApp from "../../../public/icons/social.png";
+import Twitter from "../../../public/icons/twitter.png";
+import Telegram from "../../../public/icons/telegram.png";
 
 const ImgWidth = 20;
 const ImgHeight = 20;

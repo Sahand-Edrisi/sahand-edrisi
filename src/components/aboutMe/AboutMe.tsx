@@ -1,4 +1,4 @@
-import { AboutMeData } from "../../../utils/data/AboutMeData";
+import { AboutMeData } from "../../utils/data/AboutMeData";
 import Image from "next/image";
 
 const AboutMe = () => {

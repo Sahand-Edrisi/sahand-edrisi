@@ -1,5 +1,5 @@
 import { StaticImageData } from "next/image";
-import IconUniversity from "../../src/public/icons/university.png";
+import IconUniversity from "../../../public/icons/university.png";
 
 export interface IAbout {
   name: string;
