@@ -1,5 +1,3 @@
-"use client";
-
 import { IExperienceProjectProps } from "@/utils/data/ExperienceData";
 
 const ProjectsItem = ({ it }: { it: IExperienceProjectProps[] }) => {

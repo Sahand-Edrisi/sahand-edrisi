@@ -1,6 +1,6 @@
 "use client";
 import ProjectDetail from "./ProjectDetail";
-import { projects } from "@/utils/data/ProjectsData";
+import { projects } from "../../utils/data/ProjectsData";
 import { TitleText } from "../Common/TitleText";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
@@ -9,8 +9,8 @@ import "swiper/css/pagination";
 import { Autoplay, EffectCoverflow, Pagination } from "swiper/modules";
 import Titles from "../Common/Titles";
 import SeeWebsiteAndGithub from "./SeeWebsiteAndGithub";
-import Github from "@/public/icons/githubWebsite.png";
-import Website from "@/public/icons/website-content.png";
+import Github from "../../public/icons/githubWebsite.png";
+import Website from "../../public/icons/website-content.png";
 
 const Projects = () => {
   return (

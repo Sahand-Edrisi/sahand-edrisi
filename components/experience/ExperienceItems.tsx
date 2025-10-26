@@ -1,4 +1,4 @@
-import { IExperienceItemProps } from "@/utils/data/ExperienceData";
+import { IExperienceItemProps } from "../../utils/data/ExperienceData";
 import ProjectsItem from "./ProjectsItem";
 
 const ExperienceItems = ({

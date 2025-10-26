@@ -1,5 +1,5 @@
 import Titles from "../Common/Titles";
-import { experience } from "@/utils/data/ExperienceData";
+import { experience } from "../../utils/data/ExperienceData";
 import ExperienceItems from "./ExperienceItems";
 import { TitleText } from "../Common/TitleText";
 
