@@ -6,10 +6,9 @@
   "homepage": "https://sahand-edrisi.ir",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build && copy public\\CNAME out\\CNAME",
-    "lint": "eslint .",
+    "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d out"
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
