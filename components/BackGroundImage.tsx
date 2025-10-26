@@ -1,13 +1,13 @@
-import bgImage from "../public/img/Cover-sahand-edc.jpg";
+// import bgImage from "../public/img/Cover-sahand-edc.jpg";
 import Image from "next/image";
-import MyPic from "../public/img/my-pic.png";
+// import MyPic from "../public/img/my-pic.png";
 
 const BackGroundImage = () => {
   return (
     <>
       <div className="relative w-full">
         <Image
-          src={bgImage}
+          src="../public/img/Cover-sahand-edc.jpg"
           alt=""
           className="w-full h-auto object-contain border-b-4 border-green"
           priority
@@ -26,7 +26,7 @@ const BackGroundImage = () => {
                   rounded-full overflow-hidden"
         >
           <Image
-            src={MyPic}
+            src="../public/img/my-pic.png"
             alt="سهند ادریسی"
             className="rounded-full w-full h-full object-cover"
             priority
