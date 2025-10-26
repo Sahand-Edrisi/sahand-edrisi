@@ -21,9 +21,9 @@ export default {
         xl: "1440px",
       },
       fontFamily: {
-        montserrat: ["var(--font-montserrat)", "sans-serif"], // فونت انگلیسی
-        geist: ["var(--font-geist-sans)", "sans-serif"], // فونت متن
-        mono: ["var(--font-geist-mono)", "monospace"], // فونت کد
+        montserrat: ["Montserrat", "sans-serif"], 
+        geist: ["Geist", "sans-serif"],           
+        mono: ["Geist Mono", "monospace"],       
       },
     },
   },
