@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   images: { unoptimized: true },
   trailingSlash: true,
   basePath: "",
-  assetPrefix: isProd ? "./" : "",
+  assetPrefix: isProd ? "./" : "/",
 };
 
 export default nextConfig;
