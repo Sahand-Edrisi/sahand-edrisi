@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
   output: "export",
   images: { unoptimized: true },
   trailingSlash: true,
-  basePath: "",
-  assetPrefix: isProd ? "./" : "/",
+  basePath: isProd ? "/sahand-edrisi" : "",
+  assetPrefix: isProd ? "/sahand-edrisi/" : "",
 };
 
 export default nextConfig;
