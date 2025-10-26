@@ -1,18 +1,14 @@
 import bgImage from "../../public/img/Cover-sahand-edc.jpg";
-import Image from "next/image";
 import MyPic from "../../public/img/my-pic.png";
 
 const BackGroundImage = () => {
   return (
     <>
       <div className="relative w-full">
-        <Image
+        <img
           src={bgImage}
           alt=""
           className="w-full h-auto object-contain border-b-4 border-green"
-          width={550}
-          height={550}
-          priority
         />
 
         <div
@@ -25,11 +21,10 @@ const BackGroundImage = () => {
                   xl:w-70 xl:h-70
                   rounded-full overflow-hidden"
         >
-          <Image
+          <img
             src={MyPic}
             alt="سهند ادریسی"
             className="rounded-full w-full h-full object-cover"
-            priority
           />
         </div>
       </div>

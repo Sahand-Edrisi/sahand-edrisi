@@ -1,4 +1,3 @@
-import { StaticImageData } from "next/image";
 import IconUniversity from "../../../public/icons/university.png";
 
 export interface IAbout {
@@ -6,7 +5,7 @@ export interface IAbout {
   titleWork: string;
   titleSkills: string;
   titleLocation: string;
-  src: StaticImageData;
+  src: string;
   university: string;
   widthImage: number;
   heightImg: number;

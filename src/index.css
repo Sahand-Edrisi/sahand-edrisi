@@ -8,7 +8,7 @@
   --green: #87af7b;
 }
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: var(--foreground);
   background: var(--background);
 }

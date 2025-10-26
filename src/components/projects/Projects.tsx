@@ -19,7 +19,7 @@ const Projects = () => {
         <Titles title={TitleText.titleProjects} />
       </div>
       <div className="grid justify-items-center">
-        <div className="mt-5 mb-10 h-[15rem] md:h-[24rem] w-full ">
+        <div className="mt-5 mb-1 h-[15rem] md:h-[24rem] w-full ">
           <Swiper
             effect={"coverflow"}
             grabCursor={true}
@@ -38,11 +38,9 @@ const Projects = () => {
               425: {
                 slidesPerView: 3,
               },
-              1440: {
-                slidesPerView: 4,
-              },
+            
             }}
-            loop={true}
+           loop={true}
             pagination={false}
             autoplay={{
               delay: 4000,

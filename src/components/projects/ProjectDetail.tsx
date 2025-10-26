@@ -1,17 +1,15 @@
-import Image, { StaticImageData } from "next/image";
+
 
 export interface IProjectDetail {
   href: string;
-  src: StaticImageData;
+  src: string;
   heightImg: number;
   widthImg: number;
 }
 
-const ProjectDetail = ({ widthImg, heightImg, src }: IProjectDetail) => {
+const ProjectDetail = ({ src }: IProjectDetail) => {
   return (
-    <Image
-      width={widthImg}
-      height={heightImg}
+    <img
       alt=""
       src={src}
       className="object-cover rounded-3xl w-[9em] h-[10rem] md:h-[20rem] md:w-[20rem]"

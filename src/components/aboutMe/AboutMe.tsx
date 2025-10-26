@@ -1,5 +1,4 @@
 import { AboutMeData } from "../../utils/data/AboutMeData";
-import Image from "next/image";
 
 const AboutMe = () => {
   return (
@@ -17,7 +16,7 @@ const AboutMe = () => {
         {AboutMeData.titleLocation}
       </h1>
       <h1 className="flex  mt-1 font-montserrat text-[.6rem] xm:text-[.8rem] md:text-[1.4rem] font-bold">
-        <Image
+        <img
           width={AboutMeData.widthImage}
           height={AboutMeData.heightImg}
           alt=""

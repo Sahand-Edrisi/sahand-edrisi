@@ -1,11 +1,10 @@
 import Gmail from "../../../public/icons/gmail.png";
 import PhoneNumber from "../../../public/icons/phone-call.png";
-import { StaticImageData } from "next/image";
 // import University from "@/public/icons/university.png"
 
 export interface IContactMe {
   id: number;
-  icon: StaticImageData;
+  icon: string;
   text: string;
   width: number;
   height: number;

@@ -4,10 +4,9 @@ import ticTacToePic from "../../../public/projectsImg/tic-tac-toe.png";
 import calculatorPic from "../../../public/projectsImg/sample-calculator.png";
 import myBlogsPic from "../../../public/projectsImg/sample-myBlogs-web-site.png";
 import personalWbPic from "../../../public/projectsImg/sample-personal-web-site.png";
-import { StaticImageData } from "next/image";
 export interface IProjectType {
   id: number;
-  srcImg: StaticImageData;
+  srcImg: string;
   soursCode: string;
   homePage: string;
   widthImg: number;

@@ -1,10 +1,9 @@
-import { socialMedia } from "@/src/utils/data/SocialMediaData";
-import Image from "next/image";
-import { StaticImageData } from "next/image";
-import { ContactMeData } from "@/src/utils/data/ContactMeData";
+import { socialMedia } from "../../utils/data/SocialMediaData";
+import { ContactMeData } from "../../utils/data/ContactMeData";
+
 export interface ISocialMedia {
   id?: number;
-  src?: StaticImageData;
+  src?: string;
   href?: string;
   widthImg?: number;
   heightImg?: number;
@@ -16,8 +15,6 @@ export interface ISocialMedia {
 }
 
 const SocialMedia = ({
-  widthINContact,
-  heightINContact,
   contactStyle,
   contactMe,
 }: ISocialMedia) => {
@@ -33,12 +30,10 @@ const SocialMedia = ({
         {contactMe &&
           ContactMeData.map((item) => (
             <a href={item.href} key={item.id}>
-              <Image
-                width={item.width}
-                height={item.height}
+              <img
                 alt={item.alt}
                 src={item.icon}
-                className="object-cover xm:w-[1.7rem] xm:h-[1.7rem] sm:w-[2.4rem] sm:h-[2.4rem] md:w-[3.5rem] md:h-[3.5rem]"
+                className="object-cover xs:w-[1.2rem] xs:h-[1.2rem] xm:w-[1.7rem] xm:h-[1.7rem] sm:w-[2.4rem] sm:h-[2.4rem] md:w-[3.5rem] md:h-[3.5rem]"
               />
             </a>
           ))}
@@ -52,12 +47,10 @@ const SocialMedia = ({
               item.href.startsWith("http") ? "noopener noreferrer" : undefined
             }
           >
-            <Image
-              width={widthINContact ? widthINContact : item.widthImg}
-              height={heightINContact ? heightINContact : item.heightImg}
+            <img
               alt=""
               src={item.src}
-              className="object-cover xm:w-[1.7rem] xm:h-[1.7rem] sm:w-[2.4rem] sm:h-[2.4rem] md:w-[3.5rem] md:h-[3.5rem]"
+              className="object-cover xs:w-[1.2rem] xs:h-[1.2rem] xm:w-[1.7rem] xm:h-[1.7rem] sm:w-[2.4rem] sm:h-[2.4rem] md:w-[3.5rem] md:h-[3.5rem]"
             />
           </a>
         ))}

@@ -1,4 +1,4 @@
-import { IExperienceProjectProps } from "../../utils/data/ExperienceData";
+import type { IExperienceProjectProps } from "../../utils/data/ExperienceData";
 
 const ProjectsItem = ({ it }: { it: IExperienceProjectProps[] }) => {
   return (
