@@ -1,5 +1,5 @@
-import Gmail from "@/public/icons/gmail.png";
-import PhoneNumber from "@/public/icons/phone-call.png";
+import Gmail from "../../src/public/icons/gmail.png";
+import PhoneNumber from "../../src/public/icons/phone-call.png";
 import { StaticImageData } from "next/image";
 // import University from "@/public/icons/university.png"
 

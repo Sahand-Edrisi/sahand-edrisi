@@ -1,9 +1,9 @@
-import movieWebPic from "@/public/projectsImg/sample-movie-web-site.png";
-import sudokuPic from "@/public/projectsImg/sudoku-table.png";
-import ticTacToePic from "@/public/projectsImg/tic-tac-toe.png";
-import calculatorPic from "@/public/projectsImg/sample-calculator.png";
-import myBlogsPic from "@/public/projectsImg/sample-myBlogs-web-site.png";
-import personalWbPic from "@/public/projectsImg/sample-personal-web-site.png";
+import movieWebPic from "../../src/public/projectsImg/sample-movie-web-site.png";
+import sudokuPic from "../../src/public/projectsImg/sudoku-table.png";
+import ticTacToePic from "../../src/public/projectsImg/tic-tac-toe.png";
+import calculatorPic from "../../src/public/projectsImg/sample-calculator.png";
+import myBlogsPic from "../../src/public/projectsImg/sample-myBlogs-web-site.png";
+import personalWbPic from "../../src/public/projectsImg/sample-personal-web-site.png";
 import { StaticImageData } from "next/image";
 export interface IProjectType {
   id: number;

@@ -1,6 +1,6 @@
 "use client";
 import ProjectDetail from "./ProjectDetail";
-import { projects } from "../../utils/data/ProjectsData";
+import { projects } from "../../../utils/data/ProjectsData";
 import { TitleText } from "../Common/TitleText";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";

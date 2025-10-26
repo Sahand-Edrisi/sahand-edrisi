@@ -27,13 +27,13 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "components/aboutMe/AboutMe.tsx",
-    "components/Footer.tsx",
-    "components/Header.tsx",
-    "components/homePage/page.tsx",
-    "components/ProfilePic.tsx",
-    "components/projects/ProjectDetail.tsx",
-    "components/projects/Projects.tsx"
+    "src/components/aboutMe/AboutMe.tsx",
+    "src/components/Footer.tsx",
+    "src/components/Header.tsx",
+    "src/components/homePage/page.tsx",
+    "src/components/ProfilePic.tsx",
+    "src/components/projects/ProjectDetail.tsx",
+    "src/components/projects/Projects.tsx"
   ],
   "exclude": ["node_modules"]
 }

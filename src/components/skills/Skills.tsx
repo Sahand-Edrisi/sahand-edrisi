@@ -1,5 +1,5 @@
-import { TitleText } from "../Common/TitleText"; 
-import { icons } from "../../utils/data/SkillsData";
+import { TitleText } from "../Common/TitleText";
+import { icons } from "../../../utils/data/SkillsData";
 import Image from "next/image";
 import Titles from "../Common/Titles";
 

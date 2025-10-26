@@ -2,7 +2,7 @@
   "name": "sahand-edrisi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahand-edrisi.ir",
+  "homepage": "https://sahand-edrisi.ir/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build && copy public\\CNAME out\\CNAME",

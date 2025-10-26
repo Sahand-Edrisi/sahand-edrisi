@@ -1,18 +1,18 @@
-import ReactIcon from "@/public/icons/react.svg";
-import NextJsIcon from "@/public/icons/NEXT.JS.png";
-import ReduxIcon from "@/public/icons/Redux.png";
-import TypescriptIcon from "@/public/icons/Typescript.png";
-import JsIcon from "@/public/icons/java-script.png";
-import BootstrapIcon from "@/public/icons/bootstrap.svg";
-import TailwindIcon from "@/public/icons/Tailwind.png";
-import GitIcon from "@/public/icons/git.svg";
-import CssIcon from "@/public/icons/css.svg";
-import ScssIcon from "@/public/icons/sass.svg";
-import ResponsiveIcon from "@/public/icons/responsive website.png";
-import HTMLIcon from "@/public/icons/html.png";
-import FlowbiteIcon from "@/public/icons/Flowbite.svg" 
-import RestApiIcon from "@/public/icons/api.png" 
-import SwiperIcon from "@/public/icons/swiper.svg" 
+import ReactIcon from "../../src/public/icons/react.svg";
+import NextJsIcon from "../../src/public/icons/NEXT.JS.png";
+import ReduxIcon from "../../src/public/icons/Redux.png";
+import TypescriptIcon from "../../src/public/icons/Typescript.png";
+import JsIcon from "../../src/public/icons/java-script.png";
+import BootstrapIcon from "../../src/public/icons/bootstrap.svg";
+import TailwindIcon from "../../src/public/icons/Tailwind.png";
+import GitIcon from "../../src/public/icons/git.svg";
+import CssIcon from "../../src/public/icons/css.svg";
+import ScssIcon from "../../src/public/icons/sass.svg";
+import ResponsiveIcon from "../../src/public/icons/responsive website.png";
+import HTMLIcon from "../../src/public/icons/html.png";
+import FlowbiteIcon from "../../src/public/icons/Flowbite.svg" 
+import RestApiIcon from "../../src/public/icons/api.png" 
+import SwiperIcon from "../../src/public/icons/swiper.svg" 
 
 import { StaticImageData } from "next/image";
 
