@@ -4,12 +4,9 @@ const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   output: "export",
-  images: {
-    unoptimized: true,
-  },
-  assetPrefix: isProd ? "https://sahand-edrisi.ir/" : undefined,
-  basePath: "",
+  images: { unoptimized: true },
   trailingSlash: true,
+  assetPrefix: isProd ? "/" : undefined,
 };
 
 export default nextConfig;
