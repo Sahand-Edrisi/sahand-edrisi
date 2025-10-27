@@ -38,7 +38,7 @@ jobs:
 
       # 4️⃣ (اختیاری) آپلود GIF به عنوان Artifact
       - name: Upload Snake GIF as Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-gif
           path: assets/snake.gif
