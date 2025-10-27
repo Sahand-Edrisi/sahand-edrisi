@@ -9,19 +9,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout کد
       - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      - uses: Platane/snk@v3
+      # 2️⃣ ساخت Snake GIF با رنگ دلخواه
+      - uses: Platane/snk@v2
         with:
           github_user_name: Sahand-Edrisi
-          outputs: |
-            assets/snake.gif
-          color: "#FF0000"
-          background_color: "#1E1E1E"
-          head_color: "#00FF00"
+          outputs: assets/snake.gif
+          color: "#FF4500"          # رنگ بدن مار
+          head_color: "#32CD32"     # رنگ سر مار
+          background_color: "#0D0D0D"  # رنگ خانه‌های خالی
+          size: "25"                # اندازه خانه‌ها (پیکسل)
+          speed: "200"              # سرعت حرکت مار (ms)
 
+      # 3️⃣ Commit و Push خودکار GIF
       - name: Commit & Push snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,3 +35,10 @@ jobs:
           git add assets/snake.gif
           git diff --cached --quiet || git commit -m "Update GitHub Snake GIF"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+
+      # 4️⃣ (اختیاری) آپلود GIF به عنوان Artifact
+      - name: Upload Snake GIF as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-gif
+          path: assets/snake.gif
