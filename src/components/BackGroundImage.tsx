@@ -1,4 +1,4 @@
-import bgImage from "../../public/img/Cover-sahand-edc.jpg";
+import bgImage from "../../public/img/Cover-sahand-edc.png";
 import MyPic from "../../public/img/my-pic.png";
 
 const BackGroundImage = () => {
@@ -7,7 +7,7 @@ const BackGroundImage = () => {
       <div className="relative w-full">
         <img
           src={bgImage}
-          alt=""
+          alt="sahand-Edrisi-cover-img"
           className="w-full h-auto object-contain border-b-4 border-green"
         />
 
