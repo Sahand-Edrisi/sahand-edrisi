@@ -41,6 +41,22 @@ I enjoy collaborating in team environments using **Git** and project management 
 
 ---
 
+## 🎯 Goals
+My goal is to become a **Full-Stack Developer** focusing on **modern web performance**,  
+**clean architecture**, and **developer-friendly UX**.
+
+---
+
+## 🧰 Tools I Use Daily
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+---
+
 ## 💼 Experience
 
 ### 🧠 Rotikala Website — *Remote Front-End Developer (Feb 2025 – Sep 2025)*
@@ -73,6 +89,13 @@ I enjoy collaborating in team environments using **Git** and project management 
 | **MyBlogs Website** | A responsive blog showcasing posts and content. | HTML, SCSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/myblogs-web-site) • [Live Demo](https://sahand-edrisi.github.io/myblogs-web-site/) |
 | **Sudoku Table** | Browser-based Sudoku game with JS logic. | HTML, CSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/sudoku-table) • [Live Demo](https://sahand-edrisi.github.io/sudoku-table/) |
 | **Calculator** | A simple and responsive calculator app. | HTML, CSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/calculator) • [Live Demo](https://sahand-edrisi.github.io/calculator/) |
+
+---
+
+## 💬 Fun Facts
+- ☕ Coffee-powered coding sessions are my secret weapon.  
+- 🎧 I code best with lo-fi beats.  
+- 🌍 Love exploring new frontend libraries every week.  
 
 ---
 
