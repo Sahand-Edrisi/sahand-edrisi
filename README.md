@@ -41,16 +41,6 @@ I enjoy collaborating in team environments using **Git** and project management 
 
 ---
 
-## 🧠 Skills Overview
-
-**Frontend:** React, Next.js, TypeScript, Redux Toolkit, TailwindCSS, Bootstrap  
-**Backend (Basic):** Node.js, Express.js  
-**Version Control:** Git, GitHub  
-**Tools:** Vite, Webpack, Figma, Postman  
-**Other:** Responsive Design, SEO, API Integration
-
----
-
 ## 🎯 Goals
 My goal is to become a **Full-Stack Developer** focusing on **modern web performance**,  
 **clean architecture**, and **developer-friendly UX**.
