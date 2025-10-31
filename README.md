@@ -51,14 +51,6 @@ I enjoy collaborating in team environments using **Git** and project management 
 
 ---
 
-## 🚀 Currently Learning
-- Next.js 15 and Server Actions  
-- Performance Optimization & Web Vitals  
-- UI Animations with Framer Motion  
-- Testing with Jest & React Testing Library  
-
----
-
 ## 🎯 Goals
 My goal is to become a **Full-Stack Developer** focusing on **modern web performance**,  
 **clean architecture**, and **developer-friendly UX**.
@@ -67,11 +59,11 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
 
 ## 🧰 Tools I Use Daily
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -110,13 +102,6 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
 
 ---
 
-## 🏅 Certificates & Achievements
-- **React Developer Certificate** – Meta (Coursera, 2024)  
-- **Frontend Mentor Challenges** – Top 5% Rated Solutions  
-- **GitHub Streaks:** 200+ consecutive days of commits  
-
----
-
 ## 💬 Fun Facts
 - ☕ Coffee-powered coding sessions are my secret weapon.  
 - 🎧 I code best with lo-fi beats.  
@@ -132,18 +117,6 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/Sahand-Edrisi/movie-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahand-Edrisi&repo=movie-website&theme=radical" />
-  </a>
-  <a href="https://github.com/Sahand-Edrisi/personal-web-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahand-Edrisi&repo=personal-web-site&theme=radical" />
-  </a>
 </p>
 
 ---
