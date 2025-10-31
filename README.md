@@ -9,7 +9,7 @@
   <img 
     src="./assets/WebsitePic.png" 
     alt="Header Image" 
-    width="800" 
+    width="1200" 
     style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
   />
 </p>
