@@ -126,5 +126,4 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
   <a href="mailto:sahand.edc@gmail.com">Email</a> • 
   <a href="https://t.me/Sahand_edc">Telegram</a> • 
   <a href="https://wa.me/989195812500">WhatsApp</a> • 
-  <a href="https://x.com/sahand_edrisi">X (Twitter)</a>
 </p>
