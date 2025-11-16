@@ -6,7 +6,7 @@ const Skills = () => {
   return (
     <div className="grid pt-3">
       <Titles title={TitleText.titleSkills} />
-      <div className="grid grid-cols-3 justify-items-center items-center justify-center ">
+      <div className="grid items-center justify-center grid-cols-4 md:grid-cols-5 justify-items-center ">
         {icons.map((icon) => (
           <div key={icon.id}>
             <img

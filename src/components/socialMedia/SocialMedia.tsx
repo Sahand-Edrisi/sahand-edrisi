@@ -14,10 +14,7 @@ export interface ISocialMedia {
   contactMe?: boolean;
 }
 
-const SocialMedia = ({
-  contactStyle,
-  contactMe,
-}: ISocialMedia) => {
+const SocialMedia = ({ contactStyle, contactMe }: ISocialMedia) => {
   return (
     <>
       <div
