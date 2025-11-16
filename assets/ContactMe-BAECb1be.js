@@ -1,1 +1,0 @@
-import{j as t,T as e,a,S as s}from"./index-CFIMFKQE.js";const i=()=>t.jsxs(t.Fragment,{children:[t.jsx(e,{title:a.titleContactMe}),t.jsx("div",{className:"p-2 pt-6 pb-6",children:t.jsx(s,{contactStyle:!0,contactMe:!0})})]});export{i as default};
