@@ -14,6 +14,19 @@
   />
 </p>
 
+<!-- Typing animation (dynamic) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+UIs" alt="Typing SVG" />
+</p>
+
+<!-- Hero GIF (put ./assets/hero.gif in your repo) -->
+
+<p align="center">
+  <!-- Replace hero.gif with your own short screen-recording of the UI -->
+  <img src="./assets/hero.gif" alt="Hero Demo" width="900" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);" />
+</p>
+
 ---
 
 ## 🧩 About Me
@@ -58,6 +71,7 @@ My goal is to become a **Full-Stack Developer** with strong focus on:
 ---
 
 ## 🧰 Tools I Use Daily
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
@@ -65,7 +79,6 @@ My goal is to become a **Full-Stack Developer** with strong focus on:
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
@@ -119,6 +132,57 @@ My goal is to become a **Full-Stack Developer** with strong focus on:
 * 📘 I actively work on **personal development** and self-growth
 * 🌍 I spend time **studying English** and improving my language skills
 * 💡 I love exploring new frontend tools and libraries every week
+
+---
+
+## ✨ Animated / Interactive Widgets (Add these for motion)
+
+Add these dynamic/animated badges and cards to make the profile more alive. Copy & paste these image lines into your README where you want them.
+
+**Typing intro (animated):**
+
+```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+UIs" alt="Typing SVG" />
+</p>
+```
+
+**Hero GIF (short UI recording):**
+
+```
+<p align="center">
+  <img src="./assets/hero.gif" alt="Hero Demo" width="900" />
+</p>
+```
+
+**GitHub Readme Streak Stats (dynamic SVG):**
+
+```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahand-Edrisi&theme=radical" alt="Sahand's streak stats" />
+</p>
+```
+
+**Activity Graph (contribution heatmap):**
+
+```
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sahand-Edrisi&theme=react-dark&area=true" alt="Contribution Graph" />
+</p>
+```
+
+**Top languages (compact card):**
+
+```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
+</p>
+```
+
+> Notes:
+>
+> * For `hero.gif` record a 5–8s clip of your site (tools: LICEcap, Peek, or an OS screen recorder) and save it as `./assets/hero.gif` in your repo.
+> * The `activity-graph` and `streak-stats` services are third-party and may intermittently fail. If that happens, try switching theme params or use an alternative service.
 
 ---
 
