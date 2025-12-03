@@ -17,85 +17,104 @@
 ---
 
 ## 🧩 About Me
-I'm **Sahand Edrisi**, a **Front-End Developer** with hands-on experience in building **modern, scalable, and responsive** web applications.  
-My expertise lies in **React.js**, **Next.js**, and **TypeScript**, along with libraries such as **Redux Toolkit**, **TailwindCSS**, and **Axios**.  
 
-I’ve worked on a variety of projects — from **UI redesigns for e-commerce platforms** to **movie showcase websites**, **personal blogs**, and **browser-based games**.  
-My focus is on crafting **user-friendly interfaces** with **clean code**, **smooth UX**, and **attention to performance**.  
+I'm **Sahand Edrisi**, a **Front-End Developer** passionate about building modern, scalable, and visually polished web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Redux Toolkit**, and **TailwindCSS**.
 
-I enjoy collaborating in team environments using **Git** and project management tools like **Jira**, and I’m always eager to learn new technologies and improve code quality.
+I’ve worked on multiple real-world projects — from **e-commerce platforms** to **movie websites**, **blogs**, and even **browser games**. My focus is always on:
+
+* Clean and maintainable code
+* Smooth user experience
+* Performance optimization
+* UI consistency and responsiveness
+
+I enjoy working in collaborative environments using **Git**, **GitHub**, **Jira**, and modern development workflows.
 
 ---
 
 ## ⚙️ Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?logo=sass\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
 ## 🎯 Goals
-My goal is to become a **Full-Stack Developer** focusing on **modern web performance**,  
-**clean architecture**, and **developer-friendly UX**.
+
+My goal is to become a **Full-Stack Developer** with strong focus on:
+
+* Modern web performance
+* Clean architecture
+* Scalable design patterns
+* Developer‑friendly UX and workflows
 
 ---
 
 ## 🧰 Tools I Use Daily
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 ### 🧠 Rotikala Website — *Remote Front-End Developer (Feb 2025 – Sep 2025)*
-> Team-based e-commerce project inspired by Digikala.  
-- Developed with **Next.js** and **Redux Toolkit** for scalable architecture.  
-- Integrated APIs using **Axios** and **Thunk** middleware.  
-- Built reusable UI components with **Tailwind CSS** and **Flowbite-React**.  
-- Enhanced forms with **React Hook Form** for validation and control.
+
+> Large-scale e-commerce platform inspired by Digikala.
+
+* Developed using **Next.js** + **Redux Toolkit**
+* API integration with **Axios** and **Thunk**
+* Built reusable UI components with **TailwindCSS** + **Flowbite**
+* Applied **React Hook Form** for complex form handling
 
 ### 🎬 Zavie — *Freelance Front-End Developer (May 2024 – Feb 2025)*
-> Movie showcase platform built with **React**.  
-- Integrated API requests with **Axios** and managed UI state with **useState** / **useEffect**.  
-- Implemented **Bootstrap grid system** for responsiveness.  
-- Added **Swiper.js** for interactive sliders and transitions.
 
-### 💡 Innovation Center — *Freelance Front-End Developer (May 2023 – May 2024)*
-> Created several browser-based projects including:
-- **Personal Website:** Built with **HTML**, **SCSS**, and **JavaScript**.  
-- **Blog Website:** Designed and implemented a responsive content-driven layout.  
-- **Sudoku Game:** Developed an interactive web-based puzzle game.  
+> Movie showcase platform.
+
+* Data fetching via **Axios**
+* UI management using **useState** / **useEffect**
+* Responsive design using **Bootstrap grid system**
+* Integrated **Swiper.js** for modern sliders
+
+### 💡 Innovation Center — *Freelance Developer (May 2023 – May 2024)*
+
+> Multiple browser-based projects.
+
+* **Portfolio website** (HTML, SCSS, JS)
+* **Blog website** with responsive layout
+* **Sudoku Game** implemented with pure JS logic
 
 ---
 
 ## 🧱 Projects
 
-| Project | Description | Tech Stack | Links |
-|----------|--------------|-------------|--------|
-| **Movie Website** | A fully responsive movie showcase platform. | React, Axios, Bootstrap, Swiper | [GitHub](https://github.com/Sahand-Edrisi/movie-website) • [Live Demo](https://sahand-edrisi.github.io/movie-website/) |
-| **Personal Website** | My personal portfolio & blog website. | HTML, SCSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/personal-web-site) • [Live Demo](https://sahand-edrisi.github.io/personal-web-site/) |
-| **MyBlogs Website** | A responsive blog showcasing posts and content. | HTML, SCSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/myblogs-web-site) • [Live Demo](https://sahand-edrisi.github.io/myblogs-web-site/) |
-| **Sudoku Table** | Browser-based Sudoku game with JS logic. | HTML, CSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/sudoku-table) • [Live Demo](https://sahand-edrisi.github.io/sudoku-table/) |
-| **Calculator** | A simple and responsive calculator app. | HTML, CSS, JavaScript | [GitHub](https://github.com/Sahand-Edrisi/calculator) • [Live Demo](https://sahand-edrisi.github.io/calculator/) |
+| Project              | Description                   | Tech Stack                      | Links                                                                                                                          |
+| -------------------- | ----------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Movie Website**    | Responsive movie showcase app | React, Axios, Bootstrap, Swiper | [GitHub](https://github.com/Sahand-Edrisi/movie-website) • [Live Demo](https://sahand-edrisi.github.io/movie-website/)         |
+| **Personal Website** | Portfolio & blog              | HTML, SCSS, JS                  | [GitHub](https://github.com/Sahand-Edrisi/personal-web-site) • [Live Demo](https://sahand-edrisi.github.io/personal-web-site/) |
+| **MyBlogs Website**  | Responsive blog platform      | HTML, SCSS, JS                  | [GitHub](https://github.com/Sahand-Edrisi/myblogs-web-site) • [Live Demo](https://sahand-edrisi.github.io/myblogs-web-site/)   |
+| **Sudoku Table**     | Browser-based Sudoku game     | HTML, CSS, JS                   | [GitHub](https://github.com/Sahand-Edrisi/sudoku-table) • [Live Demo](https://sahand-edrisi.github.io/sudoku-table/)           |
+| **Calculator**       | Responsive calculator app     | HTML, CSS, JS                   | [GitHub](https://github.com/Sahand-Edrisi/calculator) • [Live Demo](https://sahand-edrisi.github.io/calculator/)               |
 
 ---
 
 ## 💬 Fun Facts
-- ☕ Coffee-powered coding sessions are my secret weapon.  
-- 🎧 I code best with lo-fi beats.  
-- 🌍 Love exploring new frontend libraries every week.  
+
+* ☕ Coffee is my coding fuel
+* 🎧 I code best with lo‑fi beats
+* 🌍 Love trying new frontend tools and libraries weekly
 
 ---
 
@@ -112,6 +131,7 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
 ---
 
 ## 🐍 GitHub Snake
+
 <p align="center">
   <img src="./assets/snake.gif" alt="GitHub Snake" />
 </p>
@@ -119,6 +139,7 @@ My goal is to become a **Full-Stack Developer** focusing on **modern web perform
 ---
 
 ## 📫 Contact Me
+
 <p align="center">
   <a href="https://github.com/Sahand-Edrisi">GitHub</a> • 
   <a href="https://sahand-edrisi.ir/">Website</a> • 
