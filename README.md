@@ -46,6 +46,16 @@ I enjoy working in collaborative environments using **Git**, **GitHub**, **Jira*
 
 ---
 
+## 🎯 Goals
+
+My goal is to become a **Full-Stack Developer** with strong focus on:
+
+* Modern web performance
+* Clean architecture
+* Scalable design patterns
+* Developer‑friendly UX and workflows
+
+---
 
 ## 🧰 Tools I Use Daily
 
@@ -100,14 +110,28 @@ I enjoy working in collaborative environments using **Git**, **GitHub**, **Jira*
 
 ---
 
-## 💬 Fun Facts
+## 💬 Fun Facts & Hobbies
 
 * ☕ Coffee is my coding fuel
-* 🎧 I code best with lo‑fi beats
-* 🌍 Love trying new frontend tools and libraries weekly
+* 🎧 I focus best while listening to **instrumental / lo-fi music**
+* 🏋️‍♂️ I regularly go to the **gym** and enjoy improving my physical strength
+* 📘 I actively work on **personal development** and self-growth
+* 🌍 I spend time **studying English** and improving my language skills
+* 💡 I love exploring new frontend tools and libraries every week
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-Edrisi&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## 🐍 GitHub Snake
 
