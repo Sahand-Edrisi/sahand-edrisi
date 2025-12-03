@@ -1,29 +1,26 @@
 # 👨‍💻 Sahand Edrisi
 
 <p align="center">
-  <a href="https://sahand-edrisi.ir/">🌐 View My Portfolio</a> • 
+  <a href="https://sahand-edrisi.ir/">🌐 View My Portfolio</a> •
   <a href="https://sahand-edrisi.ir/CV/Sahand_Edrisi.pdf">📄 Download My CV</a>
 </p>
 
 <p align="center">
-  <img 
-    src="./assets/WebsitePic.png" 
-    alt="Header Image" 
-    width="1200" 
-    style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" 
+  <img
+    src="./assets/WebsitePic.png"
+    alt="Header Image"
+    width="1200"
+    style="border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"
   />
 </p>
 
-<!-- Typing animation (dynamic) -->
-
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+UIs" alt="Typing SVG" />
 </p>
 
-<!-- Hero GIF (put ./assets/hero.gif in your repo) -->
-
+<!-- Hero GIF -->
 <p align="center">
-  <!-- Replace hero.gif with your own short screen-recording of the UI -->
   <img src="./assets/hero.gif" alt="Hero Demo" width="900" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);" />
 </p>
 
@@ -31,169 +28,106 @@
 
 ## 🧩 About Me
 
-I'm **Sahand Edrisi**, a **Front-End Developer** passionate about building modern, scalable, and visually polished web applications. I specialize in **React.js**, **Next.js**, **TypeScript**, **Redux Toolkit**, and **TailwindCSS**.
+I'm **Sahand Edrisi**, a passionate **Front-End Developer** dedicated to crafting modern, scalable, and visually stunning web applications. With expertise in **React.js**, **Next.js**, **TypeScript**, **Redux Toolkit**, and **TailwindCSS**, I thrive on turning complex ideas into seamless user experiences.
 
-I’ve worked on multiple real-world projects — from **e-commerce platforms** to **movie websites**, **blogs**, and even **browser games**. My focus is always on:
+I've delivered real-world projects including **e-commerce platforms**, **movie discovery sites**, **blogs**, and **interactive browser games**. My approach emphasizes:
+- **Clean, maintainable code** for long-term scalability
+- **Intuitive UX/UI** with a focus on responsiveness and accessibility
+- **Performance optimization** to ensure fast-loading apps
+- **Collaborative workflows** using tools like **Git**, **GitHub**, and **Jira**
 
-* Clean and maintainable code
-* Smooth user experience
-* Performance optimization
-* UI consistency and responsiveness
-
-I enjoy working in collaborative environments using **Git**, **GitHub**, **Jira**, and modern development workflows.
+Whether working solo or in teams, I'm always exploring new tools to push the boundaries of frontend development.
 
 ---
 
 ## ⚙️ Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?logo=sass\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-
----
-
-## 🎯 Goals
-
-My goal is to become a **Full-Stack Developer** with strong focus on:
-
-* Modern web performance
-* Clean architecture
-* Scalable design patterns
-* Developer‑friendly UX and workflows
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 🧰 Tools I Use Daily
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 ### 🧠 Rotikala Website — *Remote Front-End Developer (Feb 2025 – Sep 2025)*
+> A large-scale e-commerce platform inspired by Digikala, featuring product catalogs, user accounts, and checkout flows.
 
-> Large-scale e-commerce platform inspired by Digikala.
-
-* Developed using **Next.js** + **Redux Toolkit**
-* API integration with **Axios** and **Thunk**
-* Built reusable UI components with **TailwindCSS** + **Flowbite**
-* Applied **React Hook Form** for complex form handling
+- Built with **Next.js** and **Redux Toolkit** for state management
+- Integrated APIs using **Axios** and **Thunk** for asynchronous operations
+- Created reusable UI components with **TailwindCSS** and **Flowbite**
+- Implemented advanced form handling with **React Hook Form**
 
 ### 🎬 Zavie — *Freelance Front-End Developer (May 2024 – Feb 2025)*
+> A dynamic movie showcase platform with search, ratings, and trailers.
 
-> Movie showcase platform.
-
-* Data fetching via **Axios**
-* UI management using **useState** / **useEffect**
-* Responsive design using **Bootstrap grid system**
-* Integrated **Swiper.js** for modern sliders
+- Fetched data efficiently via **Axios**
+- Managed state with **useState** and **useEffect** hooks
+- Ensured responsive design using **Bootstrap** grid system
+- Added interactive sliders with **Swiper.js**
 
 ### 💡 Innovation Center — *Freelance Developer (May 2023 – May 2024)*
+> Developed various browser-based applications and tools.
 
-> Multiple browser-based projects.
-
-* **Portfolio website** (HTML, SCSS, JS)
-* **Blog website** with responsive layout
-* **Sudoku Game** implemented with pure JS logic
+- Created a **personal portfolio website** using HTML, SCSS, and JS
+- Built a **responsive blog platform** with dynamic content loading
+- Implemented a **Sudoku game** with pure JavaScript logic and algorithms
 
 ---
 
 ## 🧱 Projects
 
-| Project              | Description                   | Tech Stack                      | Links                                                                                                                          |
-| -------------------- | ----------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Movie Website**    | Responsive movie showcase app | React, Axios, Bootstrap, Swiper | [GitHub](https://github.com/Sahand-Edrisi/movie-website) • [Live Demo](https://sahand-edrisi.github.io/movie-website/)         |
-| **Personal Website** | Portfolio & blog              | HTML, SCSS, JS                  | [GitHub](https://github.com/Sahand-Edrisi/personal-web-site) • [Live Demo](https://sahand-edrisi.github.io/personal-web-site/) |
-| **MyBlogs Website**  | Responsive blog platform      | HTML, SCSS, JS                  | [GitHub](https://github.com/Sahand-Edrisi/myblogs-web-site) • [Live Demo](https://sahand-edrisi.github.io/myblogs-web-site/)   |
-| **Sudoku Table**     | Browser-based Sudoku game     | HTML, CSS, JS                   | [GitHub](https://github.com/Sahand-Edrisi/sudoku-table) • [Live Demo](https://sahand-edrisi.github.io/sudoku-table/)           |
-| **Calculator**       | Responsive calculator app     | HTML, CSS, JS                   | [GitHub](https://github.com/Sahand-Edrisi/calculator) • [Live Demo](https://sahand-edrisi.github.io/calculator/)               |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Movie Website** | A responsive app for browsing and discovering movies with trailers and details | React, Axios, Bootstrap, Swiper | [GitHub](https://github.com/Sahand-Edrisi/movie-website) • [Live Demo](https://sahand-edrisi.github.io/movie-website/) |
+| **Personal Website** | My portfolio showcasing projects and skills | HTML, SCSS, JS | [GitHub](https://github.com/Sahand-Edrisi/personal-web-site) • [Live Demo](https://sahand-edrisi.github.io/personal-web-site/) |
+| **MyBlogs Website** | A clean, responsive blog platform for articles and posts | HTML, SCSS, JS | [GitHub](https://github.com/Sahand-Edrisi/myblogs-web-site) • [Live Demo](https://sahand-edrisi.github.io/myblogs-web-site/) |
+| **Sudoku Table** | An interactive browser-based Sudoku puzzle game | HTML, CSS, JS | [GitHub](https://github.com/Sahand-Edrisi/sudoku-table) • [Live Demo](https://sahand-edrisi.github.io/sudoku-table/) |
+| **Calculator** | A simple yet responsive web calculator app | HTML, CSS, JS | [GitHub](https://github.com/Sahand-Edrisi/calculator) • [Live Demo](https://sahand-edrisi.github.io/calculator/) |
 
 ---
 
 ## 💬 Fun Facts & Hobbies
 
-* ☕ Coffee is my coding fuel
-* 🎧 I focus best while listening to **instrumental / lo-fi music**
-* 🏋️‍♂️ I regularly go to the **gym** and enjoy improving my physical strength
-* 📘 I actively work on **personal development** and self-growth
-* 🌍 I spend time **studying English** and improving my language skills
-* 💡 I love exploring new frontend tools and libraries every week
-
----
-
-## ✨ Animated / Interactive Widgets (Add these for motion)
-
-Add these dynamic/animated badges and cards to make the profile more alive. Copy & paste these image lines into your README where you want them.
-
-**Typing intro (animated):**
-
-```
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+UIs" alt="Typing SVG" />
-</p>
-```
-
-**Hero GIF (short UI recording):**
-
-```
-<p align="center">
-  <img src="./assets/hero.gif" alt="Hero Demo" width="900" />
-</p>
-```
-
-**GitHub Readme Streak Stats (dynamic SVG):**
-
-```
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahand-Edrisi&theme=radical" alt="Sahand's streak stats" />
-</p>
-```
-
-**Activity Graph (contribution heatmap):**
-
-```
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sahand-Edrisi&theme=react-dark&area=true" alt="Contribution Graph" />
-</p>
-```
-
-**Top languages (compact card):**
-
-```
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
-</p>
-```
-
-> Notes:
->
-> * For `hero.gif` record a 5–8s clip of your site (tools: LICEcap, Peek, or an OS screen recorder) and save it as `./assets/hero.gif` in your repo.
-> * The `activity-graph` and `streak-stats` services are third-party and may intermittently fail. If that happens, try switching theme params or use an alternative service.
+- ☕ Coffee powers my late-night coding sessions
+- 🎧 I code best to **instrumental** or **lo-fi** beats
+- 🏋️‍♂️ Hitting the **gym** keeps me balanced and energized
+- 📘 Committed to **personal development** and lifelong learning
+- 🌍 Actively improving my **English** skills for global collaboration
+- 💡 Weekly dives into new frontend libraries and trends
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-Edrisi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahand-Edrisi&theme=radical" alt="Sahand's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sahand-Edrisi&theme=react-dark&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -209,10 +143,10 @@ Add these dynamic/animated badges and cards to make the profile more alive. Copy
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/Sahand-Edrisi">GitHub</a> • 
-  <a href="https://sahand-edrisi.ir/">Website</a> • 
-  <a href="https://www.linkedin.com/in/sahand-edrisi/">LinkedIn</a> • 
-  <a href="mailto:sahand.edc@gmail.com">Email</a> • 
-  <a href="https://t.me/Sahand_edc">Telegram</a> • 
-  <a href="https://wa.me/989195812500">WhatsApp</a> • 
+  <a href="https://github.com/Sahand-Edrisi">GitHub</a> •
+  <a href="https://sahand-edrisi.ir/">Website</a> •
+  <a href="https://www.linkedin.com/in/sahand-edrisi/">LinkedIn</a> •
+  <a href="mailto:sahand.edc@gmail.com">Email</a> •
+  <a href="https://t.me/Sahand_edc">Telegram</a> •
+  <a href="https://wa.me/989195812500">WhatsApp</a>
 </p>
