@@ -46,16 +46,6 @@ I enjoy working in collaborative environments using **Git**, **GitHub**, **Jira*
 
 ---
 
-## 🎯 Goals
-
-My goal is to become a **Full-Stack Developer** with strong focus on:
-
-* Modern web performance
-* Clean architecture
-* Scalable design patterns
-* Developer‑friendly UX and workflows
-
----
 
 ## 🧰 Tools I Use Daily
 
