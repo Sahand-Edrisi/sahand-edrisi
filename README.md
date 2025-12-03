@@ -118,17 +118,6 @@ My goal is to become a **Full-Stack Developer** with strong focus on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-Edrisi&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🐍 GitHub Snake
 
