@@ -116,22 +116,6 @@ Whether working solo or in teams, I'm always exploring new tools to push the bou
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahand-Edrisi&layout=compact&theme=radical" alt="Top Languages" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahand-Edrisi&theme=radical" alt="Sahand's Streak Stats" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sahand-Edrisi&theme=react-dark&area=true" alt="Contribution Graph" />
-</p> -->
-
----
-
 ## 🐍 GitHub Snake
 
 <p align="center">
