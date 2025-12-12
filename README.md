@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://sahand-edrisi.ir/">🌐 View My Portfolio</a> •
-  <a href="https://sahand-edrisi.ir/CV/Sahand_Edrisi.pdf">📄 Download My CV</a>
+  <a href="https://sahand-edrisi.ir/CV/Sahand_Edrisi_CV.pdf" download>
+  📄 Download My CV
+</a>
 </p>
 
 <p align="center">
