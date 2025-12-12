@@ -28,7 +28,7 @@ export const socialMedia = [
   {
     id: 5,
     src: CVIcon,
-    href: "../../../public/CV/Sahand_Edrisi.pdf",
+    href: "../../../public/CV/Sahand Edrisi CV's.pdf",
     download: "Sahand_Edrisi.pdf",
   },
 ];
