@@ -1,7 +1,3 @@
-import Gmail from "../../../public/icons/gmail.png";
-import PhoneNumber from "../../../public/icons/phone-call.png";
-// import University from "@/public/icons/university.png"
-
 export interface IContactMe {
   id: number;
   icon: string;
@@ -11,6 +7,7 @@ export interface IContactMe {
   alt: string;
   href: string;
 }
+
 export type IContactMeType = IContactMe[];
 
 const widthImage = 20;
@@ -19,7 +16,7 @@ const heightImage = 20;
 export const ContactMeData: IContactMeType = [
   {
     id: 1,
-    icon: Gmail,
+    icon: "/icons/gmail.png",
     text: "Email ME",
     width: widthImage,
     height: heightImage,
@@ -28,7 +25,7 @@ export const ContactMeData: IContactMeType = [
   },
   {
     id: 2,
-    icon: PhoneNumber,
+    icon: "/icons/phone-call.png",
     text: "+98 919 581 2500",
     width: widthImage,
     height: heightImage,
